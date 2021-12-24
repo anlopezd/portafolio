@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portafolio/static/css/main.26baeaf8.css",
-    "main.js": "/portafolio/static/js/main.a4b6189f.js",
+    "main.css": "/portafolio/static/css/main.0dd2fc30.css",
+    "main.js": "/portafolio/static/js/main.50619b88.js",
     "static/js/787.9b9c0edf.chunk.js": "/portafolio/static/js/787.9b9c0edf.chunk.js",
     "static/media/ecommerce.png": "/portafolio/static/media/ecommerce.c8b64349f9521beb5173.png",
     "static/media/latinfestival.png": "/portafolio/static/media/latinfestival.c5fb48f92120d2edaec7.png",
@@ -9,12 +9,12 @@
     "static/media/me.svg": "/portafolio/static/media/me.5149f113528272e6232966f1986ee83b.svg",
     "static/media/contact.svg": "/portafolio/static/media/contact.1a471cdc3b0a8a41b2a69ce3e3357e4f.svg",
     "index.html": "/portafolio/index.html",
-    "main.26baeaf8.css.map": "/portafolio/static/css/main.26baeaf8.css.map",
-    "main.a4b6189f.js.map": "/portafolio/static/js/main.a4b6189f.js.map",
+    "main.0dd2fc30.css.map": "/portafolio/static/css/main.0dd2fc30.css.map",
+    "main.50619b88.js.map": "/portafolio/static/js/main.50619b88.js.map",
     "787.9b9c0edf.chunk.js.map": "/portafolio/static/js/787.9b9c0edf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.26baeaf8.css",
-    "static/js/main.a4b6189f.js"
+    "static/css/main.0dd2fc30.css",
+    "static/js/main.50619b88.js"
   ]
 }
